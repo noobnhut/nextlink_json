@@ -2,7 +2,6 @@
 const jsonServer = require('json-server')
 
 const server = jsonServer.create()
-
 // Uncomment to allow write operations
 // const fs = require('fs')
 // const path = require('path')
@@ -19,8 +18,13 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id'
+    '/api/documents': '/documents',
+    '/api/types': '/types',
+    '/api/information': '/information',
+    '/api/projects': '/projects',
+    '/api/documents/:id': '/documents/:id',
+    '/api/types/:id': '/types/:id',
+    '/api/projects/:id': '/projects/:id',
 }))
 server.use(router)
 server.listen(3000, () => {

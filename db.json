@@ -1,9 +1,305 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "documents": [
+    {
+      "id": 1,
+      "name": "Tài liệu công cụ lập trình cơ bản.",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":4
+    },
+    {
+      "id": 2,
+      "name": "Tài liệu công cụ lập trình cơ bản 2.",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":3
+    },
+    {
+      "id": 3,
+      "name": "Tài liệu công cụ lập trình cơ bản 3.",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":3
+    },
+    {
+      "id": 4,
+      "name": "Tài liệu công cụ lập trình cơ bản 4.",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":4
+    },
+    {
+      "id": 5,
+      "name": "Tài liệu công cụ lập trình cơ bản 5.",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":4
+    },
+    {
+      "id": 6,
+      "name": "Tài liệu công cụ lập trình cơ bản. 6",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":4
+    },
+    {
+      "id": 7,
+      "name": "Tài liệu công cụ lập trình cơ bản. 7",
+      "introduction": "Các công cụ và tài liệu cơ bản khi bước vào lập trình.",
+      "links":[
+        {"title":"code.visualstudio.com","description":"Visual studio code: là 1 trình soạn thảo code được nhiều người sử dụng nhất hiện nay với khả năng code được nhiều ngôn ngữ và rất nhiều extension hổ trợ cho việc code."},
+        {"title":"fullstack.edu.vn","description":"Trang web hướng dẫn lập trình từ cơ bản đến các khóa nâng cao."},
+        {"title":"www.w3schools.com","description":"Một trang web giáo dục cho việc học các công nghệ web trực tuyến."},
+        {"title":"www.freecodecamp.org","description":"FreeCodeCamp là một tổ chức giáo dục phi lợi nhuận bao gồm nền tảng web học tập tương tác, diễn đàn cộng đồng trực tuyến, phòng trò chuyện, ấn phẩm trực tuyến và các tổ chức địa phương có mục đích giúp mọi người có thể tiếp cận việc phát triển phần mềm học tập."}
+      ],
+      "type_id":4
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+
+  "types":[
+    {
+      "id":1,
+      "name":"Database",
+      "title":"Cơ sở dữ liệu"
+    },
+    {
+      "id":2,
+      "name":"Language",
+      "title":"Ngôn ngữ lập trình"
+    },
+    {
+      "id":3,
+      "name":"Framework",
+      "title":"Thư viện | Framework"
+    },
+    {
+      "id":4,
+      "name":"Tool",
+      "title":"Tài liệu | Công cụ"
+    }
   ],
-  "profile": { "name": "typicode" }
+
+  "information": [
+    {
+      "id": 1,
+      "name": "Nguyễn Minh Nhựt",
+      "index": "Nodejs Development",
+      "avatar": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/341607916_761594412207161_701151146353912051_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NRe-iXiYFDsQ7kNvgHjms2D&_nc_ht=scontent.fsgn2-4.fna&oh=00_AYCDsPQMC2-18lUKFtyXLggZ6VPBWlWd_O9r-LJ56TeLKw&oe=66C9DEB0",
+      "information": "Tôi là sinh viên tốt nghiệp với mục tiêu trở thành lập trình viên full-stack Node.js. Tôi có nền tảng về Node.js, Express.js và Nest.js cho backend, và thành thạo Vue.js, Vite và Tailwind CSS cho frontend. Ngoài ra, tôi có kỹ năng về các cơ sở dữ liệu như MySQL, SQL Server và MongoDB.",
+      "github": "https://github.com/noobnhut/"
+    }
+  ],
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "Javascript"
+    },
+    {
+      "id": 2,
+      "name": "Typescript"
+    },
+    {
+      "id": 3,
+      "name": "NodeJs"
+    },
+    {
+      "id": 4,
+      "name": "NestJs"
+    },
+    {
+      "id": 5,
+      "name": "MySQL"
+    },
+    {
+      "id": 6,
+      "name": "MongoDB"
+    },
+    {
+      "id": 7,
+      "name": "Redis"
+    },
+    {
+      "id": 8,
+      "name": "Git"
+    }
+  ],
+  
+  "projects": [
+    {
+      "id": 1,
+      "name": "Clone Ứng Dụng Discord",
+      "link": "https://github.com/noobnhut/next_discord",
+      "description": "Xây dựng một bản sao của ứng dụng Discord, nâng cao kỹ năng về Next.js, React, Socketio, Prisma, Tailwind và MySQL",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Next.js"
+        },
+        {
+          "id": 2,
+          "name": "TailwindCSS"
+        },
+        {
+          "id": 3,
+          "name": "Shadcn/ui"
+        },
+        {
+          "id": 4,
+          "name": "MySQL"
+        },
+        {
+          "id": 5,
+          "name": "Redis"
+        },
+        {
+          "id": 6,
+          "name": "SocketIO"
+        },
+        {
+          "id": 7,
+          "name": "Livekit"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Website Thương Mại Điện Tử",
+      "duration": "4/2024 - 5/2024",
+      "position": "Full-stack Developer",
+      "description": "Phát triển một trang web mua sắm với các tính năng như mua hàng, xem và lưu sản phẩm yêu thích, thanh toán COD và thanh toán trực tuyến qua VNPay.",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Vuejs"
+        },
+        {
+          "id": 2,
+          "name": "Vite"
+        },
+        {
+          "id": 3,
+          "name": "TailwindCSS"
+        },
+        {
+          "id": 4,
+          "name": "Node.js"
+        },
+        {
+          "id": 5,
+          "name": "Nest.js"
+        },
+        {
+          "id": 6,
+          "name": "TypeORM"
+        },
+        {
+          "id": 7,
+          "name": "MySQL"
+        },
+        {
+          "id": 8,
+          "name": "Cloudinary"
+        },
+        {
+          "id": 9,
+          "name": "VNPay"
+        }
+      ],
+      "link": "https://github.com/noobnhut/vuejs_nestjs_ecom"
+    },
+    {
+      "id": 3,
+      "name": "Nền Tảng Trao Đổi Đồ Cũ",
+      "duration": "6/2023 - 9/2023",
+      "position": "Full-stack Developer, System Design Analyst",
+      "description": "Tạo một nền tảng chia sẻ và trao đổi đồ cũ, với các chức năng đăng bài, tìm kiếm, thông báo ưu tiên và nhắn tin trực tiếp.",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Vuejs"
+        },
+        {
+          "id": 2,
+          "name": "Vite"
+        },
+        {
+          "id": 3,
+          "name": "TailwindCSS"
+        },
+        {
+          "id": 4,
+          "name": "Mapbox"
+        },
+        {
+          "id": 5,
+          "name": "Node.js"
+        },
+        {
+          "id": 6,
+          "name": "Express.js"
+        },
+        {
+          "id": 7,
+          "name": "NodeCron"
+        },
+        {
+          "id": 8,
+          "name": "Socket.IO"
+        },
+        {
+          "id": 9,
+          "name": "Sequelize"
+        },
+        {
+          "id": 10,
+          "name": "MySQL"
+        },
+        {
+          "id": 11,
+          "name": "Mapbox"
+        },
+        {
+          "id": 12,
+          "name": "provinces.open-api.vn"
+        }
+      ],
+      "link": "https://github.com/noobnhut/luanvan"
+    }
+  ]
 }
+
+ 
+
+
+
